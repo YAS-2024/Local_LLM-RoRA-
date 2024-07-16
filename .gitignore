@@ -1,0 +1,6 @@
+/.venv
+/old
+/model
+/data
+/temp
+/test.py
