@@ -32,3 +32,5 @@ model.save_pretrained(local_dir)
 print('トークナイザー保存')
 tokenizer.save_pretrained(local_dir)
 print('終わり')
+
+

@@ -114,3 +114,4 @@ trainer.train()
 trainer.model.save_pretrained(dr_path + "segment_model")
 tokenizer.save_pretrained(dr_path + "segment_model")
 model.config.save_pretrained(dr_path + "segment_model")  # config.jsonの保存
+

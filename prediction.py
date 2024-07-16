@@ -65,3 +65,4 @@ output_file_path = os.getcwd() + '/data/input/segment/predicted_result.xlsx'
 df.to_excel(output_file_path, index=False)
 
 print("推論結果が保存されました:", output_file_path)
+
